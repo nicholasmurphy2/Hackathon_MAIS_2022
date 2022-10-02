@@ -18,7 +18,7 @@ Backend
   Python_backend/main.py
 Using python and flask for the backend was the best way to communicate between our app components using a REST API. We essentially communicated the selected words and some definitions to the python API which handles the AI and returns the predicted data.
 
-<b>Built With:</b>
+<b>Built with:</b>
 api
 chrome
 css3
