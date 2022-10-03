@@ -1,4 +1,4 @@
-#wordBAY
+# wordBay
 
 https://devpost.com/software/word-bay-chap  
 
