@@ -19,17 +19,17 @@ Backend
 Using python and flask for the backend was the best way to communicate between our app components using a REST API. We essentially communicated the selected words and some definitions to the python API which handles the AI and returns the predicted data.
 
 <b>Built with:</b>
-api
-chrome
-css3
-flask
-html5
-javascript
-natural-language-processing
-python
-rest
-spacy
-web-dev
+api,
+chrome,
+css3,
+flask,
+html5,
+javascript,
+natural-language-processing,
+python,
+rest,
+spacy,
+web-dev,
 
 ![example1](https://user-images.githubusercontent.com/97472150/193475662-8dbd948b-ac2e-49d5-b1e5-ae4e47f582c9.jpg)
 ![example1 1](https://user-images.githubusercontent.com/97472150/193475668-f5c478f1-23a3-49bd-bdd1-fff45b295237.jpg)
