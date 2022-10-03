@@ -1,7 +1,4 @@
 # wordBay
-
-https://devpost.com/software/word-bay-chap  
-
 ![wordBay](https://user-images.githubusercontent.com/97472150/193475409-91da0c5a-a6f6-4424-bfbc-6908d958bc79.jpg)
 
 ### **What it does**
@@ -36,5 +33,7 @@ web-dev,
 
 ### **Example**
 ![example1](https://user-images.githubusercontent.com/97472150/193475662-8dbd948b-ac2e-49d5-b1e5-ae4e47f582c9.jpg)
-![example1 1](https://user-images.githubusercontent.com/97472150/193475668-f5c478f1-23a3-49bd-bdd1-fff45b295237.jpg)
+![example1 1](https://user-images.githubusercontent.com/97472150/193475668-f5c478f1-23a3-49bd-bdd1-fff45b295237.jpg)  
+  
+https://devpost.com/software/word-bay-chap  
 
